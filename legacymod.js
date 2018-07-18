@@ -1,7 +1,7 @@
 G.AddData({
-name:'Default dataset',
-author:'Orteil',
-desc:'The default dataset for Legacy.',
+name:'Default dataset+',
+author:'Orteil, Link',
+desc:'The default dataset for Legacy, modded to my own preferences.',
 engineVersion:1,
 manifest:0,
 func:function()
