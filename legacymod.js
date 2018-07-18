@@ -3,7 +3,7 @@ name:'Default dataset+',
 author:'Orteil, Link',
 desc:'The default dataset for Legacy, modded to my own preferences.',
 engineVersion:1,
-manifest:0,
+manifest:'modManifest.js',
 func:function()
 {
     /*
